@@ -1,6 +1,7 @@
 {
     "name": "laravel/todo-app",
     "type": "project",
+    "version": "1.0.0",
     "description": "A simple todo app for crud operations in laravel.",
     "keywords": [
         "laravel",
